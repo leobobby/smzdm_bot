@@ -19,7 +19,6 @@
 3. （可选）Secret新增`SERVERCHAN_SECRETKEY`，获取方法可看这篇文章[@ruicky教程](https://ruicky.me/2020/06/05/jd-sign/)
 4. fork后必须修改一下文件，才能执行定时任务, 可修改 `README.MD`, 添加一个空格
 
-
 # 3. 其它
 ## 3.1 cookie获取方法
 + 首先使用chrome浏览器，访问[什么值得买官网](https://www.smzdm.com/)， 登陆账号
